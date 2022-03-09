@@ -1,4 +1,4 @@
-# My-first-app
+# My-First-Java-App
 I am coding java for the first time
 
 So enjoy editing my code or run it
