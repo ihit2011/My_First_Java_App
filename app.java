@@ -97,7 +97,7 @@ class app
             finalLabel.setText("R: "+redString+", "+"G: "+greenString+", "+"B: "+blueString);
         }
     }
-    //This function aligns the two windows :)
+    //This function sets the title to center, found how to do it on https://stackoverflow.com/questions/9662393/how-to-center-align-the-title-in-a-jframe
     public static void titleAlign(JFrame frame) {
         Font font = frame.getFont();
         String currentTitle = frame.getTitle().trim();
